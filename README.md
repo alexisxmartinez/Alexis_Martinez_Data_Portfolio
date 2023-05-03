@@ -6,7 +6,7 @@ Welcome to my data analytics portfolio! Here you can find examples of my data sc
 
 ## Project Examples
 
-1.Data Science Salary Estimator - [Project link]: The project aims to predict the salary of data scientists based on various factors such as work experience, employment type, job title, and company size.
+1. Data Science Salary Estimator - [Project link] : The project aims to predict the salary of data scientists based on various factors such as work experience,     employment type, job title, and company size.
 
 2. Sentiment Analysis: I performed sentiment analysis on Amazon product reviews to gain insights into public opinion about products, services, and brands.
 
