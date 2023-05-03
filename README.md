@@ -1,2 +1,2 @@
-# Alex Martinez Data Analyutics Portfolio
+# Alex Martinez Data Analytics Portfolio
 Example Data Science
