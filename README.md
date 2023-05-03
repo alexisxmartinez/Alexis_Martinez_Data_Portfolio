@@ -1,10 +1,12 @@
+[Project link]: https://github.com/AlexMartinez-DataEnthusiast/DataScience-Salary_Estimator
+
 # Data Analytics Portfolio
 
 Welcome to my data analytics portfolio! Here you can find examples of my data science and analytics projects that showcase my skills and experience in the field. 
 
 ## Project Examples
 
-1. Customer Segmentation: Using transactional data from a UK-based online retailer, I segmented customers to better understand their behavior and preferences.
+1.Data Science Salary Estimator - [Project link]: The project aims to predict the salary of data scientists based on various factors such as work experience, employment type, job title, and company size.
 
 2. Sentiment Analysis: I performed sentiment analysis on Amazon product reviews to gain insights into public opinion about products, services, and brands.
 
