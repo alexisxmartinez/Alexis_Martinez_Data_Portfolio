@@ -1,6 +1,6 @@
 [Project link]: https://github.com/AlexMartinez-DataEnthusiast/DataScience-Salary_Estimator
 
-# Data Analytics Portfolio
+# Data / Business Analyst 
 
 Welcome to my data analytics portfolio! Here you can find examples of my data science and analytics projects that showcase my skills and experience in the field. 
 
